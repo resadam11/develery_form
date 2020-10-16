@@ -1,0 +1,8 @@
+message:
+  success: Köszönjük szépen a kérdésedet. Válaszunkkal hamarosan keresünk a megadott e-mail címen.
+  danger: Hiba! Kérjük töltsd ki az összes mezőt!
+  form:
+    name: Neved
+    email: Email címed
+    text: Üzenet szövege
+    submit: Küldés
